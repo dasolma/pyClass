@@ -64,7 +64,7 @@
                            X_names.index('petal width (cm)'))
 
 
-![png](SFDClassification_files/SFDClassification_4_0.png)
+![png](SGDClassification_files/SGDClassification_4_0.png)
 
 
 
@@ -75,7 +75,7 @@
 
 
 
-![png](SFDClassification_files/SFDClassification_5_0.png)
+![png](SGDClassification_files/SGDClassification_5_0.png)
 
 
 
@@ -84,7 +84,7 @@
                            X_names.index('petal width (cm)'))
 
 
-![png](SFDClassification_files/SFDClassification_6_0.png)
+![png](SGDClassification_files/SGDClassification_6_0.png)
 
 
 
@@ -96,7 +96,7 @@
                            X_names.index('petal width (cm)'))
 
 
-![png](SFDClassification_files/SFDClassification_7_0.png)
+![png](SGDClassification_files/SGDClassification_7_0.png)
 
 
 
@@ -182,7 +182,7 @@
 
 
 
-![png](SFDClassification_files/SFDClassification_10_0.png)
+![png](SGDClassification_files/SGDClassification_10_0.png)
 
 
 
